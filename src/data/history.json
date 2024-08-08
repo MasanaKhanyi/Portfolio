@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Msc Computer Science",
+    "organisation": "Stellenbosch University",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": ["Thesis Title: Insights into the South African research landscape through mining dissertations using transformer-based language models"],
+    "imageSrc": "history/stellenbosch-university.svg"
+  },
+  {
+    "role": "BHons Computer Science",
+    "organisation": "Stellenbosch University",
+    "startDate": "Jan, 2022",
+    "endDate": "Dec, 2022",
+    "experiences": ["Relevant Coursework: Data Science, Compilers, Computer Vision, Software Verification & Analysis, Algorithms"],
+    "imageSrc": "history/stellenbosch-university.svg"
+  },
+  {
+    "role": "BSc Mathematical Sciences",
+    "organisation": "Stellenbosch University",
+    "startDate": "Jan, 2019",
+    "endDate": "Dec, 2021",
+    "experiences": ["Relevant Coursework: Machine Learning, Web Development, Software Engineering, Concurrency"],
+    "imageSrc": "history/stellenbosch-university.svg"
+  }
+]

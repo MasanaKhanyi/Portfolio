@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Behind the Seams",
+    "imageSrc": "projects/Behind-the-Seams.png",
+    "description": "A full stack CRUD project to help me organise all of my sewing projects",
+    "skills": ["MongoBD", "React", "JavaScript", "Prisma"],
+    "source": "https://github.com/MasanaKhanyi/Behind-the-seams"
+  },
+  {
+    "title": "Recipe Recommender",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["NLP", "Python", "Data Science", "Sass"]
+  }
+]
