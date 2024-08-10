@@ -1,15 +1,18 @@
 [
   {
     "title": "Behind the Seams",
-    "imageSrc": "projects/Behind-the-Seams.png",
+    "imageSrc": "projects/sewing.png",
     "description": "A full stack CRUD project to help me organise all of my sewing projects",
     "skills": ["MongoBD", "React", "JavaScript", "Prisma"],
+    "demo": "https://behind-the-seams.vercel.app",
     "source": "https://github.com/MasanaKhanyi/Behind-the-seams"
   },
   {
     "title": "Recipe Recommender",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["NLP", "Python", "Data Science", "Sass"]
+    "imageSrc": "projects/chefhat.png",
+    "description": "A data science project to recommend recipes based on pantry ingredients.",
+    "skills": ["NLP", "Python", "Data Science"],
+    "demo": "https://github.com/MasanaKhanyi/Recipe-Recommender",
+    "source": "https://github.com/MasanaKhanyi/Recipe-Recommender"
   }
 ]
